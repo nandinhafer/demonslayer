@@ -1,0 +1,7 @@
+p{
+    color: purple;
+}
+
+body{background: rgb(106,86,150);
+    background: linear-gradient(180deg, rgba(106,86,150,1) 61%, rgba(225,146,161,1) 90%);
+}
