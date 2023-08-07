@@ -1,0 +1,7 @@
+p{
+    color:darkblue;
+}
+  body{
+    background: rgb(58,102,150);
+    background: linear-gradient(180deg, rgba(58,102,150,1) 61%, rgba(129,59,82,1) 90%);
+  }

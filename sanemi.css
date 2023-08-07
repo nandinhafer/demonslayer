@@ -1,0 +1,6 @@
+p{
+    color:#708090;
+}
+body{background: rgb(210,223,236);
+    background: linear-gradient(180deg, rgba(210,223,236,1) 60%, rgba(169,255,121,1) 87%);
+}

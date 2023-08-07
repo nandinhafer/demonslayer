@@ -1,0 +1,47 @@
+p{
+    color:aliceblue
+}
+*
+{
+margin: 0;
+padding:0;
+box-sizing:boder-box;
+}
+
+
+nav{
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+nav .logo{
+font-size:  35px; 
+font-style:italic ;
+color: rgb(0, 213, 241);
+font-weight: bold;
+}
+
+nav ul{
+list-style: none;
+}
+
+nav ul li{
+display: inline-block;
+}
+
+nav ul li a{
+padding: 10px 20px;
+text-decoration: none;
+font-size: 19px;
+color: aliceblue;
+border-radius: 30px;
+transition: 0.6s;
+}
+
+nav ul li a:hover{
+background-color: rgb(158,0,0);
+}
+.final{
+background-image: url("chamas.jpg");
+
+}
